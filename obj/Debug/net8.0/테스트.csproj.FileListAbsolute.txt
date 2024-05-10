@@ -1,0 +1,28 @@
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\bin\Debug\net8.0\테스트.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\bin\Debug\net8.0\테스트.deps.json
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\bin\Debug\net8.0\테스트.runtimeconfig.json
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\bin\Debug\net8.0\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\bin\Debug\net8.0\테스트.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.AssemblyInfoInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.AssemblyInfo.cs
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\refint\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\테스트.genruntimeconfig.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\테스트\obj\Debug\net8.0\ref\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\bin\Debug\net8.0\테스트.exe
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\bin\Debug\net8.0\테스트.deps.json
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\bin\Debug\net8.0\테스트.runtimeconfig.json
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\bin\Debug\net8.0\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\bin\Debug\net8.0\테스트.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.AssemblyInfoInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.AssemblyInfo.cs
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.csproj.CoreCompileInputs.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\refint\테스트.dll
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.pdb
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\테스트.genruntimeconfig.cache
+C:\Users\ljjlm\OneDrive\바탕 화면\백준 문제\obj\Debug\net8.0\ref\테스트.dll
